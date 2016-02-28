@@ -1,0 +1,109 @@
+#navigation a {
+	color: #B8B8B8;
+	font-size: 18px;
+	text-decoration: none;
+	font-family: courier;
+	font-weight: bold;
+}
+#navigation a:hover {
+	color: #80309D;
+	text-decoration: underline;
+}
+#content .nav{
+	color: #111111;
+}
+#content .nav:hover{
+	color: #80309D;
+}
+#content .school {
+	color:#111111;
+}
+#content .school:hover {
+	color:#80309D;
+}
+#secondary a {
+	font-size: 11px;
+	font-family: courier;
+	text-decoration: none;
+	color: #d0d0d0;
+}
+h1 {
+	font-family: courier;
+}
+h2 {
+	font-family: courier;
+}
+h3 {
+	font-family: courier;	
+}
+h4 {
+	font-family: courier;
+}
+body {
+	background-image: url("gradient.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+#big {
+	margin: 0 auto;
+	width: 1000px;
+}
+#header {
+	background-image: url("top.png");
+	border: none;
+	border-bottom: none;
+	width: 1000px;
+	height: 150px;
+	padding: 10px;
+}
+#navigation {
+	background-color: #111111;
+	border: none;
+	width: 1000px;
+	height: 50px;
+	padding: 10px;
+}
+#content {
+	background-color: #B8B8B8;
+	border: none;
+	width: 1000px;
+	padding: 10px;
+	margin-top: 10px;
+}
+#secondary {
+	background-color: #111111;
+	border: none;
+	width: 1000px;
+	padding: 10px;
+	font-size: 10px;
+	margin-top: 10px;
+	height: 90px;
+	color: #d0d0d0;
+}
+table {
+	width: 1000px;
+	border: none;
+	color: #d0d0d0;
+}
+#content a {
+	font-family: courier;
+	color: #111111;
+	text-decoration: none;
+}
+#content a:hover {
+	color: #80309D;
+}
+img {
+	float: right;
+}
+.nav {
+	color: #111111;
+	
+}
+a {
+	color: #111111;
+}
+a:hover; {
+	color: #80309D;
+}
